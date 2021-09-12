@@ -1,1 +1,1 @@
-# DARNN_for_drought_forecasting
+# DARNN for drought forecasting
